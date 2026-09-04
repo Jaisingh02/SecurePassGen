@@ -1,6 +1,6 @@
-### SecurePassGen
+# SecurePassGen
 
-# A simple and secure random password generator web app. Generate strong, customizable passwords in seconds — no data stored, no tracking.
+A simple and secure random password generator web app. Generate strong, customizable passwords in seconds — no data stored, no tracking.
 
 ## **Features**
 Generate random passwords with adjustable length
