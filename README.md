@@ -7,3 +7,9 @@ Customize character sets: uppercase, lowercase, numbers, and special symbols
 Clean, minimal web interface (Flask + HTML templates)
 One-click copy to clipboard
 Runs locally — no passwords are sent or stored externally
+
+**Tech Stack**
+
+Backend: Python (Flask)
+Frontend: HTML, CSS, JavaScript
+Static assets: served via /static
